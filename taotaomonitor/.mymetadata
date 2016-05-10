@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="taotaomonitor"
+  id="myeclipse.1458639437373"
+  context-root="/taotaomonitor"
+  j2ee-spec="5.0"
+  archive="taotaomonitor.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
